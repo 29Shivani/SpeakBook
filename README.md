@@ -35,8 +35,3 @@ Sample Code
 Copy code
 import pyttsx3
 import PyPDF2
-
-# Code snippet demonstrating how to convert a PDF to an audiobook
-# Insert your code here
-
-Contributions are welcome! Fork the repository, make changes, and create a pull request.
